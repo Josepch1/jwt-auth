@@ -25,15 +25,15 @@ This project demonstrates how to secure a Spring Boot application using JSON Web
 
 ### Prerequisites
 
-- Java 17 or higher
-- Maven 3.6.3 or higher
+- Java 23 or higher
+- Maven 3.6.5 or higher
 
 ### Installation
 
 1. Clone the repository:
 
   ```sh
-  git clone https://github.com/your-username/spring-auth-jwt.git
+  git clone https://github.com/Josepch1/spring-auth-jwt.git
   ```
 
 2. Navigate to the project directory:
@@ -52,13 +52,13 @@ This project demonstrates how to secure a Spring Boot application using JSON Web
 4. Build the project:
 
   ```sh
-  ./mvnw clean install
+  ./mvnw clean package
   ```
 
 5. Run the application:
 
   ```sh
-  ./mvnw spring-boot:run
+  java -jar target/spring-auth-jwt-0.0.1-SNAPSHOT.jar
   ```
 
 ## 📚 Usage
