@@ -4,11 +4,11 @@ Welcome to the **Spring Auth JWT** project! This is a demo project for implement
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
 
 ## 📖 Introduction
 
